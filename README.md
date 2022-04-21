@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="dev.gif" height="175px"/></a>
+<img width="100%" height="auto" src="dev.gif" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
@@ -36,9 +36,9 @@
 
 ## 📊 Github Stats
   <br/>
-    <a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <img alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <br/>
-<br/><a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Aylin's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>  
 
 

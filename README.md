@@ -1,3 +1,4 @@
+
 <img width="100%" height="auto" src="dev.gif" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
@@ -33,23 +34,22 @@
 
 <br/><br/>
 
-
-## 📊 Github Stats
-  <br/>
-   <img alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<br/>
-<br/><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>  
-
-
-
-<br/>
-
-
 ## Connect with me:
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/aylinyildiz/" target="_blank"><img height="32" width="32" style="margin-right:10px;" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> </a> 
     <a href="https://medium.com/@yildizaylin" target="_blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" /> </a>
 </p>
+
+
+
+<br/><br/>
+
+## 📊 Github Stats
+  <br/>
+   <img alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%"/>
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <br/>  
+
+
 

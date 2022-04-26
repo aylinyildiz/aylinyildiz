@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-
+- 🔭  I'm currently working on C#, .NET, HTML, CSS and JavaScript
+- 🌱  I've experience with Visual Studio Code, Visual Studio
 - 👨‍💻  I’m currently learning **Web Development**
-
 - 📫 How to reach me **aylinyildiz1628@icloud.com**
 
 
@@ -47,9 +47,8 @@
 
 ## 📊 Github Stats
   <br/>
-   <img alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   <img  align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="aylinyildiz"  />
+<img width="50%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>  
-
 
 

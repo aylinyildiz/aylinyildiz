@@ -1,5 +1,5 @@
 
-<img width="100%" height="auto" src="dev.gif" height="175px"/>
+<img width="100%" height="400px" src="dev.gif"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
@@ -7,9 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭  I'm currently working on C#, .NET, HTML, CSS and JavaScript
+- 👨‍💻   I'm currently working on C#, .NET, HTML, CSS and JavaScript
 - 🌱  I've experience with Visual Studio Code, Visual Studio
-- 👨‍💻  I’m currently learning **Web Development**
 - 📫 How to reach me **aylinyildiz1628@icloud.com**
 
 
@@ -18,30 +17,22 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <img align="left" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="left" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-     <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="left" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-    <img align="left" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="left" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
-    <img align="left" alt="PhpStorm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png">
-    <img align="left" alt="MSSQLServer" height="30" width="40" src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg">
-    <br>
-</p>
+ <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+ <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+
 
 
 <br/><br/>
 
 ## Connect with me:
-
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/aylinyildiz/" target="_blank"><img height="32" width="32" style="margin-right:10px;" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> </a> 
-    <a href="https://medium.com/@yildizaylin" target="_blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" /> </a>
-</p>
-
-
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 
 <br/><br/>
 

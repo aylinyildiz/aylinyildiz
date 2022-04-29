@@ -1,6 +1,6 @@
 
-<div style="margin-left: 10%;">
-<img width="100%" height="auto" src="dev.gif" />
+<div style="margin-left: 16%;">
+<img width="70%" height="auto" src="dev.gif" />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>

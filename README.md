@@ -1,7 +1,7 @@
 
-<div style="margin-left: 16%;">
-<img width="70%" height="auto" src="dev.gif" />
-</div>
+<p align="center"> 
+<img align="center" width="70%" height="auto" src="dev.gif" />
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>

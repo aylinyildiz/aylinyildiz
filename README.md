@@ -1,5 +1,5 @@
 
-<img width="100%" height="auto" src="dev.gif"/>
+<img width="70%" height="auto" src="dev.gif" style="margin-left: 16%;"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>

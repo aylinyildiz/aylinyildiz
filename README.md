@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻   I'm currently working on C#, .NET, HTML, CSS and JavaScript
+- 👨‍💻  I'm currently working on C#, .NET, HTML, CSS,JavaScript and ReactJs
 - 🌱  I've experience with Visual Studio Code, Visual Studio
 - 📫 How to reach me **aylinyildiz1628@icloud.com**
 

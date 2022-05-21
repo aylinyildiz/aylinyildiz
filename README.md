@@ -1,10 +1,11 @@
 
 <p align="center"> 
-<img align="center" width="70%" height="auto" src="dev.gif" />
+
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
+<hr/>
 
 
 ## 🙋‍♂️ About Me

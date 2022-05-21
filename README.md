@@ -41,10 +41,6 @@
 <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </p>
 
-<br/>
-<br/>
-<br/>
-
 
 ## 📊 Github Stats
    <img  alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="aylinyildiz"  />

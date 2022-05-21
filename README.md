@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
 <h3 align="center">Software Developer</h3>
-<hr/>
+
 
 
 ## 🙋‍♂️ About Me
@@ -37,8 +37,8 @@
 
 ## Connect with me:
 <p align="left"> 
-<img  align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img  align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
+<img  src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </p>
 
 <br/>

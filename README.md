@@ -2,7 +2,6 @@
  <h1 align="center">Hi 👋, I'm Aylin</h1>
  <h3 align="center">Software Engineer</h3>
  <div align="center"><img src="dev.gif" width="500" height="350"  /> </div>
-<br>
 <div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/aylinyildiz/aylinyildiz)](https://github.com/aylinyildiz)
@@ -11,11 +10,13 @@
 
 </div>
 
+<div align="center">
+
 ## 🙋‍♂️ About Me
 
-- 👨‍💻  I'm currently working on C#, .NET, HTML, CSS, JavaScript and ReactJs
-- 🌱  I've experience with Visual Studio Code, Visual Studio
-- 📫 How to reach me **aylinyildiz1628@icloud.com**
+👨‍💻  I'm currently working on C#, .NET, HTML, CSS, JavaScript and ReactJs
+<br>
+📫 How to reach me **aylinyildiz1628@icloud.com**
 
 <br/>
 
@@ -50,3 +51,4 @@
 
 
 </details>
+</div>

@@ -1,50 +1,52 @@
 
-<p align="center"> 
+ <h1 align="center">Hi 👋, I'm Aylin</h1>
+ <h3 align="center">Software Engineer</h3>
+ <div align="center"><img src="dev.gif" width="500" height="350"  /> </div>
+<br>
+<div align="center">
 
-</p>
+[![Visits Badge](https://badges.pufler.dev/visits/aylinyildiz/aylinyildiz)](https://github.com/aylinyildiz)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aylinyildiz/)
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@yildizaylin)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aylin</h1>
-<h3 align="center">Software Developer</h3>
-
-
+</div>
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻  I'm currently working on C#, .NET, HTML, CSS,JavaScript and ReactJs
+- 👨‍💻  I'm currently working on C#, .NET, HTML, CSS, JavaScript and ReactJs
 - 🌱  I've experience with Visual Studio Code, Visual Studio
 - 📫 How to reach me **aylinyildiz1628@icloud.com**
 
-
 <br/>
 
+## 🚀 Skills
 
-## 🚀 Languages and Tools:
-<p align="left"> 
- <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
- <img align="left" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-</p>
-
-<br/>
-<br/>
-<br/>
-
-
-## Connect with me:
-<p align="left"> 
-<img  src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
-</p>
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MSSQL-informational?style=flat&logo=Microsoftsqlserver&logoColor=white&color=4AB197)
+<br>
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+<br>
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
 
 
-## 📊 Github Stats
-   <img  alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="aylinyildiz"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+<!-- 
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197) -->
+
+<details>
+<summary>📊 Github Stats</summary>
+
+   <img  alt="" src="https://github-readme-stats.vercel.app/api?username=aylinyildiz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34" alt="aylinyildiz"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1A2B34" />
   <br/>  
 
 
+</details>

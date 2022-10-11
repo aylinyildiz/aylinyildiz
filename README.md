@@ -1,10 +1,9 @@
 
  <h1 align="center">Hi 👋, I'm Aylin</h1>
  <h3 align="center">Software Engineer</h3>
- <div align="center"><img src="dev.gif" width="500" height="350"  /> </div>
+ <div align="center"><img src="dev.gif" width="400" height="270"  /> </div>
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/aylinyildiz/aylinyildiz)](https://github.com/aylinyildiz)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aylinyildiz/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://medium.com/@yildizaylin)
 

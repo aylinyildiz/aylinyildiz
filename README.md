@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- 👨‍💻  I'm currently working on C#, .NET, HTML, CSS, JavaScript and ReactJs -->
-<br>
+<!-- <br> -->
 📫 How to reach me **aylinyildiz1628@icloud.com**
 
 <br/>

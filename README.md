@@ -39,7 +39,7 @@
 
 <!-- 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197) -->
-
+<!-- 
 <details>
 <summary>📊 Github Stats</summary>
 
@@ -47,6 +47,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinyildiz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1A2B34" />
   <br/>  
 
-
-</details>
+</details> -->
 </div>
